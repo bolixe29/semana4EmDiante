@@ -4,20 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08fd87fb-990c-45df-a4c4-f2ade64e064f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CalculoPeso.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConverteFahrenheitEmCelsius.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Perimetro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projetoSemana4EmDiante.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projetoSemana4EmDiante.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Videoaula 13 - Definicao de funcoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Videoaula 13 - Definicao de funcoes.py" afterDir="false" />
+    <list default="true" id="08fd87fb-990c-45df-a4c4-f2ade64e064f" name="Changes" comment="Adicionado exercício proposto do perímetro do círculo já rodando. Criada a função no arquivo Perimetro.py">
+      <change afterPath="$PROJECT_DIR$/CalculadoraBasica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Triangulos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplosFuncoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicioLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoPeso.py" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoPeso.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -29,12 +40,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CalculadoraBasica.executor": "Run",
+    "Python.CalculoPeso.executor": "Run",
     "Python.Perimetro.executor": "Run",
+    "Python.Triangulos.executor": "Run",
+    "Python.exemplosFuncoes.executor": "Run",
+    "Python.exercicioLogin.executor": "Run",
+    "Python.pergunta1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/bolixe/PycharmProjects/projetoSemana4EmDiante",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -53,6 +74,38 @@
       <option name="presentableId" value="Default" />
       <updated>1710020972778</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionado exercício proposto do perímetro do círculo já rodando. Criada a função no arquivo Perimetro.py">
+      <option name="closed" value="true" />
+      <created>1710023165513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710023165513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adicionado exercício proposto do perímetro do círculo já rodando. Criada a função no arquivo Perimetro.py">
+      <option name="closed" value="true" />
+      <created>1710023182179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710023182179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionado exercício proposto do perímetro do círculo já rodando. Criada a função no arquivo Perimetro.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exercício proposto do perímetro do círculo já rodando. Criada a função no arquivo Perimetro.py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exemplosFuncoes.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
