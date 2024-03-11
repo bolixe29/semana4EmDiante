@@ -9,8 +9,8 @@ def perimetro(raio):
 
     if raio <= 0:
         print('Raio deve ser positivo')
-
-    return 2 * math.pi * raio
+    else:
+        return 2 * math.pi * raio
 
 def media2NotasPesos(n1, n2):
 
@@ -27,3 +27,4 @@ def meuimc(peso, altura):
         print('Normal', indice)
     elif indice >= 25:
         print('Baleeeia', indice)
+
