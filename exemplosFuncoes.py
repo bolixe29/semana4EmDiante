@@ -27,4 +27,3 @@ def meuimc(peso, altura):
         print('Normal', indice)
     elif indice >= 25:
         print('Baleeeia', indice)
-
