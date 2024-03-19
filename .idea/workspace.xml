@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08fd87fb-990c-45df-a4c4-f2ade64e064f" name="Changes" comment="Exemplo do perímetro teve indentação corrigida e estrutura if/else ajustada. &#10;Retornando valores corretos com correção.">
-      <change afterPath="$PROJECT_DIR$/Videoaula17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Videoaula17_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6_ex3.5.py" afterDir="false" />
+    <list default="true" id="08fd87fb-990c-45df-a4c4-f2ade64e064f" name="Changes" comment="Arquivos que contém exemplos básicos de uso do laço 'for' e 'for' aninhado. Conteúdo da videoaula 17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplosFuncoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplosFuncoes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,29 +33,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.CalculadoraBasica.executor": "Run",
-    "Python.CalculoPeso.executor": "Run",
-    "Python.Perimetro.executor": "Run",
-    "Python.Triangulos.executor": "Run",
-    "Python.Videoaula17.executor": "Run",
-    "Python.Videoaula17_b.executor": "Run",
-    "Python.W6_ex3.5.executor": "Run",
-    "Python.exemplosFuncoes.executor": "Run",
-    "Python.exercicioLogin.executor": "Run",
-    "Python.pergunta1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/bolixe/PycharmProjects/projetoSemana4EmDiante",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CalculadoraBasica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CalculoPeso.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Perimetro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Triangulos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Videoaula17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Videoaula17_b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.W6_ex3.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplosFuncoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicioLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pergunta1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bolixe/PycharmProjects/projetoSemana4EmDiante&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,13 +104,22 @@
       <option name="project" value="LOCAL" />
       <updated>1710197529943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Arquivos que contém exemplos básicos de uso do laço 'for' e 'for' aninhado. Conteúdo da videoaula 17">
+      <option name="closed" value="true" />
+      <created>1710549083509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710549083509</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionado exercício proposto do perímetro do círculo já rodando. Criada a função no arquivo Perimetro.py" />
     <MESSAGE value="Resolvidos exercícios que propunham criação de novas funções com estruturas de condição usando 'if', 'elif' e 'else', com retorno ou não.&#10;Exemplos com diversos cálculos e testes de condições." />
     <MESSAGE value="Exemplo do perímetro teve indentação corrigida e estrutura if/else ajustada. &#10;Retornando valores corretos com correção." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplo do perímetro teve indentação corrigida e estrutura if/else ajustada. &#10;Retornando valores corretos com correção." />
+    <MESSAGE value="Arquivos que contém exemplos básicos de uso do laço 'for' e 'for' aninhado. Conteúdo da videoaula 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos que contém exemplos básicos de uso do laço 'for' e 'for' aninhado. Conteúdo da videoaula 17" />
   </component>
 </project>
