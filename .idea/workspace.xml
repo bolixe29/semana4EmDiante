@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08fd87fb-990c-45df-a4c4-f2ade64e064f" name="Changes" comment="Arquivos que contém exemplos básicos de uso do laço 'for' e 'for' aninhado. Conteúdo da videoaula 17">
+    <list default="true" id="08fd87fb-990c-45df-a4c4-f2ade64e064f" name="Changes" comment="Salvando os exemplos atualizados">
+      <change afterPath="$PROJECT_DIR$/REVISAO/Beecrowd1035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/REVISAO/Beecrowd1066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/REVISAO/Beecrowd2486.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/REVISAO/Beecrowd2533.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana7_exercicios_apoio/Exercicio4.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,33 +38,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.CalculadoraBasica.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CalculoPeso.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Perimetro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Triangulos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Videoaula17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Videoaula17_b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.W6_ex3.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplosFuncoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicioLogin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pergunta1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bolixe/PycharmProjects/projetoSemana4EmDiante&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Becrowd2533.executor": "Run",
+    "Python.Beecrowd1035.executor": "Run",
+    "Python.Beecrowd1066.executor": "Run",
+    "Python.Beecrowd2486.executor": "Debug",
+    "Python.CalculadoraBasica.executor": "Run",
+    "Python.CalculoPeso.executor": "Run",
+    "Python.Exercicio4.1.executor": "Debug",
+    "Python.Perimetro.executor": "Run",
+    "Python.Triangulos.executor": "Run",
+    "Python.Videoaula17.executor": "Run",
+    "Python.Videoaula17_b.executor": "Run",
+    "Python.W6_ex3.5.executor": "Run",
+    "Python.exemplosFuncoes.executor": "Run",
+    "Python.exercicioLogin.executor": "Run",
+    "Python.pergunta1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/bolixe/PycharmProjects/projetoSemana4EmDiante",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -112,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710549083509</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Salvando os exemplos atualizados">
+      <option name="closed" value="true" />
+      <created>1710886516132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710886516132</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +138,30 @@
     <MESSAGE value="Resolvidos exercícios que propunham criação de novas funções com estruturas de condição usando 'if', 'elif' e 'else', com retorno ou não.&#10;Exemplos com diversos cálculos e testes de condições." />
     <MESSAGE value="Exemplo do perímetro teve indentação corrigida e estrutura if/else ajustada. &#10;Retornando valores corretos com correção." />
     <MESSAGE value="Arquivos que contém exemplos básicos de uso do laço 'for' e 'for' aninhado. Conteúdo da videoaula 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arquivos que contém exemplos básicos de uso do laço 'for' e 'for' aninhado. Conteúdo da videoaula 17" />
+    <MESSAGE value="Salvando os exemplos atualizados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Salvando os exemplos atualizados" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REVISAO/Beecrowd2486.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REVISAO/Beecrowd2486.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
